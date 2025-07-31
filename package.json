@@ -1,0 +1,10 @@
+
+{
+  "name": "firebase-auth-worker",
+  "type": "module",
+  "exports": "./index.ts",
+  "dependencies": {
+    "hono": "^3.12.12",
+    "firebase": "^10.12.0"
+  }
+}
